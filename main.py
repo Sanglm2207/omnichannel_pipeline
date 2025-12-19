@@ -19,15 +19,15 @@ def main():
     logger.info("--- KHỞI ĐỘNG OMNICHANNEL DATA PIPELINE ---")
 
     try:
-        # Giai đoạn 1: Ingestion (Regex & File I/O)
+        # Ingestion (Regex & File I/O)
         logger.info("PHASE 1: Bắt đầu xử lý Raw Logs...")
         run_ingestion()
         
-        # Giai đoạn 2: Transformation (Dict/Set/Enrichment)
+        # Transformation (Dict/Set/Enrichment)
         logger.info("PHASE 2: Bắt đầu làm giàu dữ liệu (Data Enrichment)...")
         run_transformation()
         
-        # Giai đoạn 3: Analytics (Pandas/NumPy)
+        # Analytics (Pandas/NumPy)
         logger.info("PHASE 3: Bắt đầu tính toán Analytics...")
         run_analytics()
 
