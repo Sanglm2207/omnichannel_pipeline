@@ -1,0 +1,5 @@
+{
+  "p_001": {"name": "iPhone 15", "price": 1000, "category": "Mobile"},
+  "p_002": {"name": "MacBook M2", "price": 2000, "category": "Laptop"},
+  "p_003": {"name": "AirPods", "price": 200, "category": "Accessories"}
+}
