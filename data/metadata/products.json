@@ -1,5 +1,502 @@
 {
-  "p_001": {"name": "iPhone 15", "price": 1000, "category": "Mobile"},
-  "p_002": {"name": "MacBook M2", "price": 2000, "category": "Laptop"},
-  "p_003": {"name": "AirPods", "price": 200, "category": "Accessories"}
+    "p_001": {
+        "name": "Sản phẩm 1",
+        "price": 17,
+        "category": "Books"
+    },
+    "p_002": {
+        "name": "Sản phẩm 2",
+        "price": 147,
+        "category": "Home"
+    },
+    "p_003": {
+        "name": "Sản phẩm 3",
+        "price": 431,
+        "category": "Home"
+    },
+    "p_004": {
+        "name": "Sản phẩm 4",
+        "price": 666,
+        "category": "Fashion"
+    },
+    "p_005": {
+        "name": "Sản phẩm 5",
+        "price": 904,
+        "category": "Books"
+    },
+    "p_006": {
+        "name": "Sản phẩm 6",
+        "price": 748,
+        "category": "Tech"
+    },
+    "p_007": {
+        "name": "Sản phẩm 7",
+        "price": 1932,
+        "category": "Books"
+    },
+    "p_008": {
+        "name": "Sản phẩm 8",
+        "price": 641,
+        "category": "Tech"
+    },
+    "p_009": {
+        "name": "Sản phẩm 9",
+        "price": 568,
+        "category": "Fashion"
+    },
+    "p_010": {
+        "name": "Sản phẩm 10",
+        "price": 1153,
+        "category": "Home"
+    },
+    "p_011": {
+        "name": "Sản phẩm 11",
+        "price": 1193,
+        "category": "Home"
+    },
+    "p_012": {
+        "name": "Sản phẩm 12",
+        "price": 711,
+        "category": "Home"
+    },
+    "p_013": {
+        "name": "Sản phẩm 13",
+        "price": 1232,
+        "category": "Home"
+    },
+    "p_014": {
+        "name": "Sản phẩm 14",
+        "price": 609,
+        "category": "Home"
+    },
+    "p_015": {
+        "name": "Sản phẩm 15",
+        "price": 1838,
+        "category": "Home"
+    },
+    "p_016": {
+        "name": "Sản phẩm 16",
+        "price": 968,
+        "category": "Home"
+    },
+    "p_017": {
+        "name": "Sản phẩm 17",
+        "price": 385,
+        "category": "Home"
+    },
+    "p_018": {
+        "name": "Sản phẩm 18",
+        "price": 678,
+        "category": "Fashion"
+    },
+    "p_019": {
+        "name": "Sản phẩm 19",
+        "price": 1990,
+        "category": "Fashion"
+    },
+    "p_020": {
+        "name": "Sản phẩm 20",
+        "price": 663,
+        "category": "Books"
+    },
+    "p_021": {
+        "name": "Sản phẩm 21",
+        "price": 11,
+        "category": "Fashion"
+    },
+    "p_022": {
+        "name": "Sản phẩm 22",
+        "price": 665,
+        "category": "Books"
+    },
+    "p_023": {
+        "name": "Sản phẩm 23",
+        "price": 1029,
+        "category": "Books"
+    },
+    "p_024": {
+        "name": "Sản phẩm 24",
+        "price": 90,
+        "category": "Books"
+    },
+    "p_025": {
+        "name": "Sản phẩm 25",
+        "price": 1768,
+        "category": "Tech"
+    },
+    "p_026": {
+        "name": "Sản phẩm 26",
+        "price": 393,
+        "category": "Home"
+    },
+    "p_027": {
+        "name": "Sản phẩm 27",
+        "price": 730,
+        "category": "Tech"
+    },
+    "p_028": {
+        "name": "Sản phẩm 28",
+        "price": 143,
+        "category": "Books"
+    },
+    "p_029": {
+        "name": "Sản phẩm 29",
+        "price": 1588,
+        "category": "Books"
+    },
+    "p_030": {
+        "name": "Sản phẩm 30",
+        "price": 1918,
+        "category": "Tech"
+    },
+    "p_031": {
+        "name": "Sản phẩm 31",
+        "price": 288,
+        "category": "Home"
+    },
+    "p_032": {
+        "name": "Sản phẩm 32",
+        "price": 1113,
+        "category": "Tech"
+    },
+    "p_033": {
+        "name": "Sản phẩm 33",
+        "price": 529,
+        "category": "Home"
+    },
+    "p_034": {
+        "name": "Sản phẩm 34",
+        "price": 1715,
+        "category": "Fashion"
+    },
+    "p_035": {
+        "name": "Sản phẩm 35",
+        "price": 1482,
+        "category": "Books"
+    },
+    "p_036": {
+        "name": "Sản phẩm 36",
+        "price": 711,
+        "category": "Tech"
+    },
+    "p_037": {
+        "name": "Sản phẩm 37",
+        "price": 1177,
+        "category": "Home"
+    },
+    "p_038": {
+        "name": "Sản phẩm 38",
+        "price": 1719,
+        "category": "Fashion"
+    },
+    "p_039": {
+        "name": "Sản phẩm 39",
+        "price": 370,
+        "category": "Books"
+    },
+    "p_040": {
+        "name": "Sản phẩm 40",
+        "price": 832,
+        "category": "Fashion"
+    },
+    "p_041": {
+        "name": "Sản phẩm 41",
+        "price": 1614,
+        "category": "Home"
+    },
+    "p_042": {
+        "name": "Sản phẩm 42",
+        "price": 283,
+        "category": "Fashion"
+    },
+    "p_043": {
+        "name": "Sản phẩm 43",
+        "price": 1205,
+        "category": "Tech"
+    },
+    "p_044": {
+        "name": "Sản phẩm 44",
+        "price": 963,
+        "category": "Tech"
+    },
+    "p_045": {
+        "name": "Sản phẩm 45",
+        "price": 301,
+        "category": "Home"
+    },
+    "p_046": {
+        "name": "Sản phẩm 46",
+        "price": 38,
+        "category": "Books"
+    },
+    "p_047": {
+        "name": "Sản phẩm 47",
+        "price": 1372,
+        "category": "Books"
+    },
+    "p_048": {
+        "name": "Sản phẩm 48",
+        "price": 605,
+        "category": "Fashion"
+    },
+    "p_049": {
+        "name": "Sản phẩm 49",
+        "price": 748,
+        "category": "Tech"
+    },
+    "p_050": {
+        "name": "Sản phẩm 50",
+        "price": 1957,
+        "category": "Home"
+    },
+    "p_051": {
+        "name": "Sản phẩm 51",
+        "price": 347,
+        "category": "Books"
+    },
+    "p_052": {
+        "name": "Sản phẩm 52",
+        "price": 1159,
+        "category": "Books"
+    },
+    "p_053": {
+        "name": "Sản phẩm 53",
+        "price": 963,
+        "category": "Fashion"
+    },
+    "p_054": {
+        "name": "Sản phẩm 54",
+        "price": 1927,
+        "category": "Books"
+    },
+    "p_055": {
+        "name": "Sản phẩm 55",
+        "price": 1958,
+        "category": "Home"
+    },
+    "p_056": {
+        "name": "Sản phẩm 56",
+        "price": 636,
+        "category": "Tech"
+    },
+    "p_057": {
+        "name": "Sản phẩm 57",
+        "price": 72,
+        "category": "Home"
+    },
+    "p_058": {
+        "name": "Sản phẩm 58",
+        "price": 653,
+        "category": "Books"
+    },
+    "p_059": {
+        "name": "Sản phẩm 59",
+        "price": 651,
+        "category": "Books"
+    },
+    "p_060": {
+        "name": "Sản phẩm 60",
+        "price": 1021,
+        "category": "Home"
+    },
+    "p_061": {
+        "name": "Sản phẩm 61",
+        "price": 378,
+        "category": "Fashion"
+    },
+    "p_062": {
+        "name": "Sản phẩm 62",
+        "price": 1778,
+        "category": "Tech"
+    },
+    "p_063": {
+        "name": "Sản phẩm 63",
+        "price": 896,
+        "category": "Tech"
+    },
+    "p_064": {
+        "name": "Sản phẩm 64",
+        "price": 1915,
+        "category": "Tech"
+    },
+    "p_065": {
+        "name": "Sản phẩm 65",
+        "price": 1738,
+        "category": "Tech"
+    },
+    "p_066": {
+        "name": "Sản phẩm 66",
+        "price": 1743,
+        "category": "Fashion"
+    },
+    "p_067": {
+        "name": "Sản phẩm 67",
+        "price": 1681,
+        "category": "Tech"
+    },
+    "p_068": {
+        "name": "Sản phẩm 68",
+        "price": 1554,
+        "category": "Books"
+    },
+    "p_069": {
+        "name": "Sản phẩm 69",
+        "price": 1074,
+        "category": "Home"
+    },
+    "p_070": {
+        "name": "Sản phẩm 70",
+        "price": 829,
+        "category": "Home"
+    },
+    "p_071": {
+        "name": "Sản phẩm 71",
+        "price": 359,
+        "category": "Tech"
+    },
+    "p_072": {
+        "name": "Sản phẩm 72",
+        "price": 1800,
+        "category": "Books"
+    },
+    "p_073": {
+        "name": "Sản phẩm 73",
+        "price": 1273,
+        "category": "Home"
+    },
+    "p_074": {
+        "name": "Sản phẩm 74",
+        "price": 759,
+        "category": "Home"
+    },
+    "p_075": {
+        "name": "Sản phẩm 75",
+        "price": 461,
+        "category": "Fashion"
+    },
+    "p_076": {
+        "name": "Sản phẩm 76",
+        "price": 1506,
+        "category": "Tech"
+    },
+    "p_077": {
+        "name": "Sản phẩm 77",
+        "price": 642,
+        "category": "Books"
+    },
+    "p_078": {
+        "name": "Sản phẩm 78",
+        "price": 839,
+        "category": "Tech"
+    },
+    "p_079": {
+        "name": "Sản phẩm 79",
+        "price": 753,
+        "category": "Home"
+    },
+    "p_080": {
+        "name": "Sản phẩm 80",
+        "price": 211,
+        "category": "Fashion"
+    },
+    "p_081": {
+        "name": "Sản phẩm 81",
+        "price": 1984,
+        "category": "Fashion"
+    },
+    "p_082": {
+        "name": "Sản phẩm 82",
+        "price": 998,
+        "category": "Books"
+    },
+    "p_083": {
+        "name": "Sản phẩm 83",
+        "price": 1476,
+        "category": "Books"
+    },
+    "p_084": {
+        "name": "Sản phẩm 84",
+        "price": 1742,
+        "category": "Tech"
+    },
+    "p_085": {
+        "name": "Sản phẩm 85",
+        "price": 653,
+        "category": "Tech"
+    },
+    "p_086": {
+        "name": "Sản phẩm 86",
+        "price": 1712,
+        "category": "Home"
+    },
+    "p_087": {
+        "name": "Sản phẩm 87",
+        "price": 989,
+        "category": "Books"
+    },
+    "p_088": {
+        "name": "Sản phẩm 88",
+        "price": 1669,
+        "category": "Tech"
+    },
+    "p_089": {
+        "name": "Sản phẩm 89",
+        "price": 1288,
+        "category": "Fashion"
+    },
+    "p_090": {
+        "name": "Sản phẩm 90",
+        "price": 253,
+        "category": "Fashion"
+    },
+    "p_091": {
+        "name": "Sản phẩm 91",
+        "price": 536,
+        "category": "Tech"
+    },
+    "p_092": {
+        "name": "Sản phẩm 92",
+        "price": 856,
+        "category": "Fashion"
+    },
+    "p_093": {
+        "name": "Sản phẩm 93",
+        "price": 811,
+        "category": "Home"
+    },
+    "p_094": {
+        "name": "Sản phẩm 94",
+        "price": 234,
+        "category": "Home"
+    },
+    "p_095": {
+        "name": "Sản phẩm 95",
+        "price": 208,
+        "category": "Home"
+    },
+    "p_096": {
+        "name": "Sản phẩm 96",
+        "price": 118,
+        "category": "Books"
+    },
+    "p_097": {
+        "name": "Sản phẩm 97",
+        "price": 1410,
+        "category": "Home"
+    },
+    "p_098": {
+        "name": "Sản phẩm 98",
+        "price": 721,
+        "category": "Tech"
+    },
+    "p_099": {
+        "name": "Sản phẩm 99",
+        "price": 1291,
+        "category": "Books"
+    },
+    "p_100": {
+        "name": "Sản phẩm 100",
+        "price": 1736,
+        "category": "Tech"
+    }
 }
